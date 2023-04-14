@@ -9,3 +9,10 @@ export const StyledButton = styled.button`
   color: white;
   margin-right: 10px;
 `;
+
+export const StyledButtonList = styled.ul`
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  padding: 0;
+`;
